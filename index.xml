@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SatRdays</title>
+    <link>http://satrdays.org/index.xml</link>
+    <description>Recent content on SatRdays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Released under the CC BY 4.0 licence</copyright>
+    <lastBuildDate>Mon, 24 Oct 2016 21:07:13 +0100</lastBuildDate>
+    <atom:link href="http://satrdays.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SatRdays knowledge base</title>
+      <link>http://satrdays.org/</link>
+      <pubDate>Mon, 24 Oct 2016 21:07:13 +0100</pubDate>
+      
+      <guid>http://satrdays.org/</guid>
+      <description>
+
+&lt;h2 id=&#34;building-satrdays&#34;&gt;Building SatRdays&lt;/h2&gt;
+
+&lt;p&gt;This site holds information eneded for people to get the the most out of SatRdays. It includes info on how to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;work on different bits of the infrastructure&lt;/li&gt;
+&lt;li&gt;what to think about before looking to organise a SatRdays&lt;/li&gt;
+&lt;li&gt;organise a SatRday&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It also includes infomation on our plans and the licensing of various components of satRdays.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SatRdays knowledge base</title>
+      <link>http://satrdays.org/infrastructure/</link>
+      <pubDate>Mon, 24 Oct 2016 21:07:13 +0100</pubDate>
+      
+      <guid>http://satrdays.org/infrastructure/</guid>
+      <description>
+
+&lt;h2 id=&#34;building-satrdays&#34;&gt;Building SatRdays&lt;/h2&gt;
+
+&lt;p&gt;This site holds information eneded for people to get the the most out of SatRdays. It includes info on how to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;work on different bits of the infrastructure&lt;/li&gt;
+&lt;li&gt;what to think about before looking to organise a SatRdays&lt;/li&gt;
+&lt;li&gt;organise a SatRday&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It also includes infomation on our plans and the licensing of various components of satRdays.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SatRdays knowledge base</title>
+      <link>http://satrdays.org/organising/</link>
+      <pubDate>Mon, 24 Oct 2016 21:07:13 +0100</pubDate>
+      
+      <guid>http://satrdays.org/organising/</guid>
+      <description>
+
+&lt;h2 id=&#34;building-satrdays&#34;&gt;Building SatRdays&lt;/h2&gt;
+
+&lt;p&gt;This site holds information eneded for people to get the the most out of SatRdays. It includes info on how to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;work on different bits of the infrastructure&lt;/li&gt;
+&lt;li&gt;what to think about before looking to organise a SatRdays&lt;/li&gt;
+&lt;li&gt;organise a SatRday&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It also includes infomation on our plans and the licensing of various components of satRdays.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Roadmap</title>
+      <link>http://satrdays.org/roadmap/</link>
+      <pubDate>Mon, 24 Oct 2016 20:08:11 +0100</pubDate>
+      
+      <guid>http://satrdays.org/roadmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>http://satrdays.org/license/</link>
+      <pubDate>Mon, 24 Oct 2016 20:10:46 +0100</pubDate>
+      
+      <guid>http://satrdays.org/license/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
