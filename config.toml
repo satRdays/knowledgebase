@@ -1,4 +1,4 @@
-baseurl = "http://satrdays.org"
+baseurl = "http://satrdays.org/"
 languageCode = "en-gb"
 title = "SatRdays"
 theme = "hugo-material-docs"
