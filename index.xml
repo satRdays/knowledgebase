@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SatRdays</title>
-    <link>http://satrdays.org/index.xml</link>
+    <link>http://satrdays.org/knowledgebase/index.xml</link>
     <description>Recent content on SatRdays</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Released under the CC BY 4.0 licence</copyright>
     <lastBuildDate>Mon, 24 Oct 2016 21:07:13 +0100</lastBuildDate>
-    <atom:link href="http://satrdays.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://satrdays.org/knowledgebase/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SatRdays knowledge base</title>
-      <link>http://satrdays.org/</link>
+      <link>http://satrdays.org/knowledgebase/</link>
       <pubDate>Mon, 24 Oct 2016 21:07:13 +0100</pubDate>
       
-      <guid>http://satrdays.org/</guid>
+      <guid>http://satrdays.org/knowledgebase/</guid>
       <description>
 
 &lt;h2 id=&#34;building-satrdays&#34;&gt;Building SatRdays&lt;/h2&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>SatRdays knowledge base</title>
-      <link>http://satrdays.org/infrastructure/</link>
+      <link>http://satrdays.org/knowledgebase/infrastructure/</link>
       <pubDate>Mon, 24 Oct 2016 21:07:13 +0100</pubDate>
       
-      <guid>http://satrdays.org/infrastructure/</guid>
+      <guid>http://satrdays.org/knowledgebase/infrastructure/</guid>
       <description>
 
 &lt;h2 id=&#34;building-satrdays&#34;&gt;Building SatRdays&lt;/h2&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title>SatRdays knowledge base</title>
-      <link>http://satrdays.org/organising/</link>
+      <link>http://satrdays.org/knowledgebase/organising/</link>
       <pubDate>Mon, 24 Oct 2016 21:07:13 +0100</pubDate>
       
-      <guid>http://satrdays.org/organising/</guid>
+      <guid>http://satrdays.org/knowledgebase/organising/</guid>
       <description>
 
 &lt;h2 id=&#34;building-satrdays&#34;&gt;Building SatRdays&lt;/h2&gt;
@@ -78,19 +78,19 @@
     
     <item>
       <title>Roadmap</title>
-      <link>http://satrdays.org/roadmap/</link>
+      <link>http://satrdays.org/knowledgebase/roadmap/</link>
       <pubDate>Mon, 24 Oct 2016 20:08:11 +0100</pubDate>
       
-      <guid>http://satrdays.org/roadmap/</guid>
+      <guid>http://satrdays.org/knowledgebase/roadmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>License</title>
-      <link>http://satrdays.org/license/</link>
+      <link>http://satrdays.org/knowledgebase/license/</link>
       <pubDate>Mon, 24 Oct 2016 20:10:46 +0100</pubDate>
       
-      <guid>http://satrdays.org/license/</guid>
+      <guid>http://satrdays.org/knowledgebase/license/</guid>
       <description></description>
     </item>
     
