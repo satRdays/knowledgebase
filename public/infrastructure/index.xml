@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infrastructure-rsses on SatRdays</title>
-    <link>http://satrdays.org/infrastructure/index.xml</link>
+    <link>http://satrdays.org/knowledgebase/infrastructure/index.xml</link>
     <description>Recent content in Infrastructure-rsses on SatRdays</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Released under the CC BY 4.0 licence</copyright>
     <lastBuildDate>Mon, 24 Oct 2016 21:07:13 +0100</lastBuildDate>
-    <atom:link href="http://satrdays.org/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://satrdays.org/knowledgebase/infrastructure/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SatRdays knowledge base</title>
-      <link>http://satrdays.org/infrastructure/</link>
+      <link>http://satrdays.org/knowledgebase/infrastructure/</link>
       <pubDate>Mon, 24 Oct 2016 21:07:13 +0100</pubDate>
       
-      <guid>http://satrdays.org/infrastructure/</guid>
+      <guid>http://satrdays.org/knowledgebase/infrastructure/</guid>
       <description>
 
 &lt;h2 id=&#34;building-satrdays&#34;&gt;Building SatRdays&lt;/h2&gt;

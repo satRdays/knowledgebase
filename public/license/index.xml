@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>License-rsses on SatRdays</title>
-    <link>http://satrdays.org/license/index.xml</link>
+    <link>http://satrdays.org/knowledgebase/license/index.xml</link>
     <description>Recent content in License-rsses on SatRdays</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Released under the CC BY 4.0 licence</copyright>
     <lastBuildDate>Mon, 24 Oct 2016 20:10:46 +0100</lastBuildDate>
-    <atom:link href="http://satrdays.org/license/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://satrdays.org/knowledgebase/license/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>License</title>
-      <link>http://satrdays.org/license/</link>
+      <link>http://satrdays.org/knowledgebase/license/</link>
       <pubDate>Mon, 24 Oct 2016 20:10:46 +0100</pubDate>
       
-      <guid>http://satrdays.org/license/</guid>
+      <guid>http://satrdays.org/knowledgebase/license/</guid>
       <description></description>
     </item>
     
