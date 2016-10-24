@@ -1,0 +1,78 @@
+baseurl = "http://satrdays.org"
+languageCode = "en-gb"
+title = "SatRdays"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+
+[params]
+	# General information
+	author = "Steph Locke"
+	description = "The satRdays knowledgebase for running and building satRdays"
+	copyright = "Released under the CC BY 4.0 licence"
+
+	# Repository
+	provider = "GitHub"
+	repo_url = "https://github.com/satrdays/knowledgebase"
+
+	version = "0.0.1"
+	logo = "img/logo.png"
+	favicon = ""
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = ["satrdays.css"]
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "blue"
+    	accent  = "light-blue"
+
+    [params.font]
+    	text = "Roboto"
+    	code = "Roboto Mono"
+
+
+[social]
+	twitter = "satrdays_org"
+	github  = "satrdays"
+	email   = "steph@satrdays.org"
+
+
+[[menu.main]]
+	name   = "SatRdays"
+	url    = "/"
+	weight = 0
+
+[[menu.main]]
+	name   = "satRdays Roadmap"
+	url    = "roadmap/"
+	weight = 20
+
+[[menu.main]]
+	name   = "Organising a satRdays"
+	url    = "organising/"
+	weight = 30
+
+[[menu.main]]
+	name   = "License"
+	url    = "license/"
+	weight = 50
+
+[[menu.main]]
+	name   = "satRdays infrastructure"
+	url    = "infrastructure/"
+	weight = 40
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
