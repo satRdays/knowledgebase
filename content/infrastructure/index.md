@@ -14,3 +14,6 @@ This site holds information needed for people to get the the most out of SatRday
 - organise a SatRday
 
 It also includes information on our plans and the licensing of various components of satRdays.
+
+## Building SatRdays 2
+Hi!
