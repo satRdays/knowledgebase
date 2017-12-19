@@ -1,4 +1,4 @@
-baseurl = "http://satrdays.org/knowledgebase/"
+baseurl = "https://satrdaysknowledgebase.netlify.com/"
 languageCode = "en-gb"
 title = "SatRdays"
 theme = "hugo-material-docs"
