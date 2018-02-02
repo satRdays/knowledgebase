@@ -1,6 +1,6 @@
-baseurl = "https://satrdaysknowledgebase.netlify.com/"
+baseurl = "https://knowledgebase.satrdays.org/"
 languageCode = "en-gb"
-title = "SatRdays"
+title = "SatRdays Knowledge Base"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -10,21 +10,21 @@ googleAnalytics = ""
 [params]
 	# General information
 	author = "Steph Locke"
-	description = "The satRdays knowledgebase for running and building satRdays"
-	copyright = "Released under the CC BY 4.0 licence"
+	description = "The satRdays knowledge base for running and building satRdays"
+	copyright = "Released under the CC BY 4.0 license"
 
 	# Repository
 	provider = "GitHub"
 	repo_url = "https://github.com/satrdays/knowledgebase"
 
-	version = "0.0.1"
+	version = ""
 	logo = "img/logo.png"
 	favicon = ""
 
 	permalink = "#"
 
 	# Custom assets
-	custom_css = ["satrdays.css"]
+	custom_css = ["css/satrdays.css"]
 	custom_js  = []
 
 	# Syntax highlighting theme
@@ -42,7 +42,8 @@ googleAnalytics = ""
 [social]
 	twitter = "satrdays_org"
 	github  = "satrdays"
-	email   = "steph@satrdays.org"
+	email   = ""
+	slack   = "https://join.slack.com/t/rusergroups/shared_invite/enQtMjEyNDA3MzcyMjczLTE3NWEzNjQ3MjZiMWM0OGE2ZWFiZDliNTY4NTJjYWY1NGNjMmNlNDUzNzkzOTZmMDBjYjRiZjFhNjk4MDY0ZGY"
 
 
 [[menu.main]]
