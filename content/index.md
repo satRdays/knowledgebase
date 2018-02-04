@@ -5,12 +5,6 @@ type: index
 weight: 0
 ---
 
-## Building SatRdays
+Welcome to the home of knowledge for all things satRdays!
 
-This site holds information eneded for people to get the the most out of SatRdays. It includes info on how to:
-
-- work on different bits of the infrastructure
-- what to think about before looking to organise a SatRdays
-- organise a SatRday
-
-It also includes infomation on our plans and the licensing of various components of satRdays.
+Are we missing something? Contribute!
