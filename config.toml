@@ -66,9 +66,15 @@ googleAnalytics = ""
 
 
 [[menu.main]]
+	name   = "Start an event"
+	url    = "newevents/"
+	weight = 25
+
+
+[[menu.main]]
 	name   = "Diversity"
 	url    = "diversity/"
-	weight = 25
+	weight = 35
 
 [[menu.main]]
 	name   = "Organising"

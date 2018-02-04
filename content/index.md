@@ -9,4 +9,4 @@ Welcome to the home of knowledge for all things satRdays!
 
 {{< pages >}}
 
-Are we missing something? Contribute by [creating](//help.github.com/articles/creating-new-files/) or [amending](//help.github.com/articles/editing-files-in-your-repository/) the relevant markdown files in our Github repo](//github.com/satrdays/knowledgebase) 
+Are we missing something? Contribute by [creating](//help.github.com/articles/creating-new-files/) or [amending](//help.github.com/articles/editing-files-in-your-repository/) the relevant markdown files in our [Github repo](//github.com/satrdays/knowledgebase). If you're not comfortable making changes directly or want to discuss it first, raise an [Issue](//github.com/satrdays/knowledgebase/issues).
