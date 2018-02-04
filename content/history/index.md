@@ -5,7 +5,7 @@ weight: 60
 ---
 
 
-satRdays was originally founded after requesting support the [R Consortium](//www.r-consortium.org).
+satRdays was originally founded after requesting support from the [R Consortium](//www.r-consortium.org).
 
 ## R Consortium proposal
 Steph Locke and Gergely Daroczig were the key signatories to a [proposal for funding](//github.com/satRdays/RSaturday-proposal/blob/master/out/satRdays-proposal.pdf) where the events were initially outlined. We received US$10,000 of funding for the events.

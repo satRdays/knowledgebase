@@ -17,6 +17,6 @@ We're currently working on:
 - Building a platform to host satRdays so event organisers don't have to reinvent the wheel each time
 - Building up this knowledge base to enable people to understand what's involved and get help along the way
 - Building a central team who coordinate and assist with the events around the world
-- Deciding what license to use for any code we write in order to be as permissive as possible and is reasonable towards our contributors
+- Deciding what license to use for any code we write in order to be as permissive as possible and reasonable towards our contributors
 - Determining our governance processes
 - Looking at global funding and supporting event organisers
