@@ -21,7 +21,7 @@
       {{ if (eq (trim .Site.Params.provider " " | lower) "github") | and (isset .Site.Params "repo_url") }}
         <ul class="repo">
           <li class="repo-download">
-            <a href="{{ .Site.Params.repo_url }}" target="_blank" title="Main site">
+            <a href="{{ .Site.Params.coresite }}" target="_blank" title="Main site">
               <i class="icon icon-forward"></i> Main site
             </a>
           </li>

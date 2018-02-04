@@ -12,6 +12,7 @@ googleAnalytics = ""
 	author = "Steph Locke"
 	description = "The satRdays knowledge base for running and building satRdays"
 	copyright = "Released under the CC BY 4.0 license"
+	coresite = "//satrdays.org"
 
 	# Repository
 	provider = "GitHub"
