@@ -1,6 +1,6 @@
 ---
 date: 2018-02-03T20:10:46+01:00
-title: License
+title: License Info
 weight: 40
 ---
 

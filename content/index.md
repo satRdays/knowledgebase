@@ -7,4 +7,6 @@ weight: 0
 
 Welcome to the home of knowledge for all things satRdays!
 
-Are we missing something? Contribute!
+{{< pages >}}
+
+Are we missing something? Contribute by [creating](//help.github.com/articles/creating-new-files/) or [amending](//help.github.com/articles/editing-files-in-your-repository/) the relevant markdown files in our Github repo](//github.com/satrdays/knowledgebase) 

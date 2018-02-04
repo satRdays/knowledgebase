@@ -57,10 +57,6 @@ googleAnalytics = ""
 	url    = "history/"
 	weight = 5
 
-[[menu.main]]
-	name   = "License"
-	url    = "license/"
-	weight = 10
 
 
 [[menu.main]]
@@ -89,6 +85,10 @@ googleAnalytics = ""
 	url    = "branding/"
 	weight = 50
 
+[[menu.main]]
+	name   = "Licenses"
+	url    = "license/"
+	weight = 60
 
 [blackfriday]
 	smartypants	= true
