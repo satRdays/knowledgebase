@@ -1,4 +1,4 @@
-baseurl = "https://knowledgebase.satrdays.org/"
+baseurl = "http://knowledgebase.satrdays.org//"
 languageCode = "en-gb"
 title = "SatRdays Knowledge Base"
 theme = "hugo-material-docs"
@@ -49,25 +49,37 @@ googleAnalytics = ""
 [[menu.main]]
 	name   = "SatRdays"
 	url    = "/"
-	weight = 0
+	weight = 1
 
 [[menu.main]]
-	name   = "satRdays Roadmap"
-	url    = "roadmap/"
-	weight = 20
-
-[[menu.main]]
-	name   = "Organising a satRdays"
-	url    = "organising/"
-	weight = 30
+	name   = "History"
+	url    = "history/"
+	weight = 5
 
 [[menu.main]]
 	name   = "License"
 	url    = "license/"
-	weight = 50
+	weight = 10
+
 
 [[menu.main]]
-	name   = "satRdays infrastructure"
+	name   = "Roadmap"
+	url    = "roadmap/"
+	weight = 20
+
+
+[[menu.main]]
+	name   = "Diversity"
+	url    = "diversity/"
+	weight = 20
+
+[[menu.main]]
+	name   = "Organising"
+	url    = "organising/"
+	weight = 30
+	
+[[menu.main]]
+	name   = "Technology"
 	url    = "infrastructure/"
 	weight = 40
 
