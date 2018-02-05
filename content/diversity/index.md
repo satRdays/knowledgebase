@@ -6,7 +6,7 @@ weight: 50
 
 Our events are intended to be accessible and welcoming to a diverse audience. We prioritise low cost access to great information and we do our best to ensure our events support learning in a safe environment.
 
-Everyone involved in satRdays, including sponsors, works within the our Code of Conduct and is expected to give thought to how they can make the events awesome for everyone else. 
+Everyone involved in satRdays, including sponsors, works within our Code of Conduct and is expected to give thought to how they can make the events awesome for everyone else. 
 
 We're refining our Code of Conduct and the latest version will be made available on our digital infrastructure and prominently displayed and publicised at our events. I'd like to thank the [RLadies](//r-ladies.org) for providing the [basis](//github.com/rladies/starter-kit/wiki/Code-of-Conduct) for this Code of Conduct.
 

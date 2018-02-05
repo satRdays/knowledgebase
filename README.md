@@ -6,4 +6,4 @@ You can view the processed version of the knowledge base at [knowledgebase.satrd
 
 If you'd like to contribute to the knowledge base, everything from a typo fix, to a new resource, to a substantive piece of advice is welcome.
 
-Contribute by [creating](//help.github.com/articles/creating-new-files/) or [amending](//help.github.com/articles/editing-files-in-your-repository/) files tin [content/](content/). If you're not comfortable making changes directly or want to discuss it first, raise an [Issue](//github.com/satrdays/knowledgebase/issues).
+Contribute by [creating](//help.github.com/articles/creating-new-files/) or [amending](//help.github.com/articles/editing-files-in-your-repository/) files in [content/](content/). If you're not comfortable making changes directly or want to discuss it first, raise an [Issue](//github.com/satrdays/knowledgebase/issues).

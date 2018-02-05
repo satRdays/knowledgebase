@@ -9,7 +9,7 @@ Our events are about open source stuff, so we try to make as much of our events 
 Except personal data, as much of our infrastructure is kept in the open as possible. Most of our work is made available through [Github](//github.com/satrdays). 
 
 ## High level licensing
-- We are working on the optimal license for our code, although this may vary depending on what we're writing. Check individual 
+- We are working on the optimal license for our code, although this may vary depending on what we're writing. Always check individual GitHub repositories to find out which license applies.
 - Our content will be released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](//creativecommons.org/licenses/by/4.0/).
 - Content provided by other people like sponsors, speakers, and attendees remains theirs.
     + We hold a license to include it in our materials, but it is up to you to secure a license from the relevant individual to use / incorporate their material.
