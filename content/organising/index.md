@@ -9,6 +9,7 @@ weight: 10
 Here are the requirements that every event must adhere to:
 
 - The main event must happen on a Saturday
+- The event must be branded as a satRday and use the logo (although a customised version is fine!)
 - The event must operate under our [Code of Conduct](../diversity) and have a strong commitment to increasing the diversity of speakers and attendees
 - The ticket price to attend the Saturday for an industry person must cost less than 8 hours of minimum wage work
 - You should have a pot of free tickets available for people who can't afford the full cost
@@ -17,8 +18,17 @@ Here are the requirements that every event must adhere to:
 - The event should be volunteer run
 - Excess funds should support your local community whether that's the user group, holding the funds over for your next satRday, or arranging a big name speaker to come do a workshop during the next year
 
+## The website
+Right now, we're taking clones of past sites and improving or hacking them together as we go. You're free to also use your own template, design, and tools **but** the site must be deployable via netlify.com. As we don't believe a given city should run an event more than once a year^[This is because of organiser burnout, distribution of knowledge, and encouraging speakers around the world] each event will get a repo name and subsequent sub-domain like `[city][YYYY]` on the satRdays.org domain. 
 
 ## Venue and dates
+Perhaps most importantly, the event **must not** clash with another R event in the same area and you probably don't want to clash with any R events that have folks from all over the world attending and speaking.
+
+It's a great idea to use a free venue if you can. Microsoft and other big software houses are good people to contact. Universities and other educational institutes are also good places to talk to.
+
+## Marketing
+You are free to use your personal accounts, a new acount specific to your satRday, or the central account to market. If you'd like to use the central account, please let Steph know on Slack. You shouldn't tweet more than once a day on the central account and of course anything you tweet about satRdays is governed by the Code of Conduct.
+
 ## Sponsors
 ## Call for papers / speakers
 ## Attendee signup
