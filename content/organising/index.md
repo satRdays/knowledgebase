@@ -31,7 +31,7 @@ You are free to use your personal accounts, a new acount specific to your satRda
 
 ## Sponsors
 ## Call for papers / speakers
-We have a deal with [sessionize.com](//sessionize.com) as it's a nifty plaltform for managing your CFP and it it makes it easier for speakers to submit to multiple events over time.  If you'd liek to use it, we can either do the inital creation for you, or when it comes time to activate the event you can send the payment url to us.
+We have a deal with [sessionize.com](//sessionize.com) as it's a nifty plaltform for managing your CFP and it it makes it easier for speakers to submit to multiple events over time.  If you'd like to use it, we can either do the initial creation for you, or when it comes time to activate the event you can send the payment url to us.
 
 ## Attendee signup
 ## On the day
