@@ -13,3 +13,6 @@ Most of our websites are [Hugo](//gohugo.io) or [Jekyll](//jekyllrb.com) and are
 
 ## Marketing
 Most event organisers use [Mailchimp](//mailchimp.com) to build a mailing list of attendees and communicate with them. 
+
+## Call for Papers
+We have an ongoing discount with [sessionize.com](//sessionize.com) and will support the use of this with the remaining R Consortium funds for folks to use for their CFPs
