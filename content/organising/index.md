@@ -23,7 +23,7 @@ The event is your own so you'll be responsible for handling cash both income and
 
 You're also the one responsible for the event from a liability perspective so you should also look at event insurance to ensure that if anything goes wrong, you're covered. 
 
-This is a really important area fo ryou as an organiser and it's unfortunately one of the areas we can give the least advice on because of how many different countries there are, each with differing rules.
+This is a really important area for you as an organiser and it's unfortunately one of the areas we can give the least advice on because of how many different countries there are, each with differing rules.
 
 ## The website
 Right now, we're taking clones of past sites and improving or hacking them together as we go. You're free to also use your own template, design, and tools **but** the site must be deployable via netlify.com. As we don't believe a given city should run an event more than once a year^[This is because of organiser burnout, distribution of knowledge, and encouraging speakers around the world] each event will get a repo name and subsequent sub-domain like `[city][YYYY]` on the satRdays.org domain. 
