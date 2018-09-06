@@ -44,7 +44,7 @@ SatRdays prioritizes marginalized people's safety over privileged people's comfo
 - Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.
 
 ### Reporting
-If you are being harassed by a member/guest/participant of/at satRdays, notice that someone else is being harassed, or have any other concerns, please contact the Global Leadership Team via [XXX]. Local incidences will be handled together with the local organisers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member/guest/participant of/at satRdays, notice that someone else is being harassed, or have any other concerns, please contact the Global Leadership Team via [leadership@satrdays.org](mailto://leadership@satrdays.org). Local incidences will be handled together with the local organisers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
 This code of conduct applies to satRdays spaces, but if you are being harassed by a member/guest/participant of/at satRdays outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by satRdays members, especially the Global Leadership Team, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The Global Leadership Team reserves the right to exclude people from satRdays based on their past behavior, including behavior outside satRdays spaces and behavior towards people who are not part of satRdays.
 
