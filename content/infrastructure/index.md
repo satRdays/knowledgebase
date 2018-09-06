@@ -14,8 +14,11 @@ We have built a set of partials for [Hugo](//gohugo.io) which are designed as a 
 Most of our websites are [Hugo](//gohugo.io) or [Jekyll](//jekyllrb.com) and are deployed on [Netlify](//netlify.com).
 
 ## Ticketing
+<<<<<<< HEAD
 We have a specific account for Tito that charges 1% commission on tickets due to the community, non-profit nature of the events. Use the slack channel to request access from Dave Parr.
 
+=======
+>>>>>>> master
 [Eventbrite](https://www.eventbrite.com/), [Tito](https://www.eventbrite.com/) and [Ticket Tailor](https://www.eventbrite.com/) have all been used for events in the past.
 
 ## Marketing
