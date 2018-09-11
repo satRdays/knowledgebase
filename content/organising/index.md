@@ -28,6 +28,10 @@ This is a really important area for you as an organiser and it's unfortunately o
 ## The website
 Right now, we're taking clones of past sites and improving or hacking them together as we go. You're free to also use your own template, design, and tools **but** the site must be deployable via netlify.com. As we don't believe a given city should run an event more than once a year^[This is because of organiser burnout, distribution of knowledge, and encouraging speakers around the world] each event will get a repo name and subsequent sub-domain like `[city][YYYY]` on the satRdays.org domain. 
 
+If you use the template we've developed, here is associated guidance for customising the template. Note it expects you to have [Hugo](https://gohugo.io/) installed locally.
+
+{{< youtube 3b7y_wan_d8 >}}
+
 ## Venue and dates
 Perhaps most importantly, the event **must not** clash with another R event in the same area and you probably don't want to clash with any R events that have folks from all over the world attending and speaking.
 
