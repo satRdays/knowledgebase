@@ -5,7 +5,9 @@ type: index
 weight: 0
 ---
 
-Welcome to the home of knowledge for all things satRdays!
+*Welcome to the home of knowledge for all things satRdays!*
+
+*If you're thinking about running a satRdays, read what's involved on our [new events](newevents) page!*
 
 {{< pages >}}
 
