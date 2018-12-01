@@ -41,7 +41,7 @@ It's a great idea to use a free venue if you can. Microsoft and other big softwa
 You are free to use your personal accounts, a new acount specific to your satRday, or the central account to market. If you'd like to use the central account, please let Steph know on Slack. You shouldn't tweet more than once a day on the central account and of course anything you tweet about satRdays is governed by the Code of Conduct.
 
 ## Sponsors
-You can set up sponsorship from people howeve ryou like. There's a [template](https://github.com/satRdays/sponsoring) available that you can use to build your sponsor pack.
+You can set up sponsorship from people however you like. There's a [template](https://github.com/satRdays/sponsoring) available that you can use to build your sponsor pack.
 
 ## Call for papers / speakers
 We have a deal with [sessionize.com](//sessionize.com) as it's a nifty plaltform for managing your CFP and it it makes it easier for speakers to submit to multiple events over time.  If you'd like to use it, we can either do the initial creation for you, or when it comes time to activate the event you can send the payment url to us.
