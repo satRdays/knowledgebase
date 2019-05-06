@@ -53,6 +53,10 @@ We have a Hugo site template that we can get going for you. You're free to also 
 
 If you use the template we've developed, here is associated guidance for customising the template. Note it expects you to have [Hugo](https://gohugo.io/) installed locally.
 
+**If your website isn't building properly, or if updates you made locally are not showing up on the published site**, you can check the Netlify deploy logs for your website at https://app.netlify.com/sites/[yourcity][year]/deploys.
+
+For example https://app.netlify.com/sites/chicago2019/deploys shows the deploys (both successful and failed) for SatRday Chicago 2019.
+
 {{< youtube 3b7y_wan_d8 >}}
 
 
