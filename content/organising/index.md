@@ -34,8 +34,9 @@ This is a really important area for you as an organiser and it's unfortunately o
 ## Sponsors
 You can set up sponsorship from people however you like. There's a [template](https://github.com/satRdays/sponsoring) available that you can use to build your sponsor pack.
 
-Common sponsors include:
+Companies with open sponsorship applications include:
 
+- Jumping Rivers - [**exclusive to satRdays** sponsorship offering](https://www.jumpingrivers.com/q/satrdays/)
 - R Consortium - [sponsorship offering](https://www.r-consortium.org/projects/r-user-group-support-program)
 - Sticker Mule - [sponsorship offering](https://www.stickermule.com/support/will-you-sponsor-my-organization)
 
