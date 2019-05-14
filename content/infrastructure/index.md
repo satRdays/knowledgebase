@@ -22,7 +22,9 @@ We have an ongoing discount with [sessionize.com](//sessionize.com) and will sup
 ## Websites
 We have built a set of partials for [Hugo](//gohugo.io) which are designed as a quick start solution for each events individual website. They are hosted on [GitHub](https://github.com/satRdays/satRday_site_template) along with guidance on their use.
 
-Most of our websites are [Hugo](//gohugo.io) or [Jekyll](//jekyllrb.com) and are deployed on [Netlify](//netlify.com).
+Most of our websites are [Hugo](//gohugo.io) or [Jekyll](//jekyllrb.com) and are deployed on [Netlify](//netlify.com). Netlify kindly support us by hosting us on their open source plan.
+
+Every events naming follows a convention `[city][YYYY]` on github and netlify. This means you can find the github repo at `github.com/satrdays/[city][YYYY]` and the deploy logs for debugging and monitoring at `app.netlify.com/sites/[city][YYYY]`
 
 ### Troubleshooting
 
