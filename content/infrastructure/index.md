@@ -11,7 +11,7 @@ We use Slack and Github as our primary tools to work as a group. Join us on the 
 ## Ticketing
 We have a specific account for Tito that charges 1% commission on tickets due to the community, non-profit nature of the events. Use the slack channel to request access from Dave Parr.
 
-[Eventbrite](https://www.eventbrite.com/), [Tito](https://www.eventbrite.com/) and [Ticket Tailor](https://www.eventbrite.com/) have all been used for events in the past.
+[Eventbrite](https://www.eventbrite.com/), [Tito](https://ti.to/) and [Ticket Tailor](https://www.tickettailor.com/) have all been used for events in the past.
 
 ## Marketing
 Most event organisers use [Mailchimp](//mailchimp.com) to build a mailing list of attendees and communicate with them. We have LinkedIn and Twitter central accounts that organisers can be granted access for the run up to the events and during their events.
