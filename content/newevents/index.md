@@ -12,6 +12,7 @@ A satRday is a low cost conference that focuses on R and the main event runs on 
 - An R conference^[Other languages allowed too but it should be generally R oriented]
 - Happens on a Saturday
 - Has a low cost to attend^[Capped at a days wage at the local minimum wage (or equivalent)]
+- Is inclusive
 
 What else a satRday is, is up to you. You decide if you want extra workshop days, how many tracks to have, whether you have keynotes or not, and what the talk lengths and focus areas are. It's up to you to make *your* satRday a success that you're happy with!
 
